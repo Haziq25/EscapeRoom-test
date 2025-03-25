@@ -54,6 +54,12 @@ button {
 }
 
 #adminUnlockBtn {
+    display: none;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
+#adminUnlockBtn {
     background: linear-gradient(90deg, #9900ff, #ff00ff);
     color: black;
 }
